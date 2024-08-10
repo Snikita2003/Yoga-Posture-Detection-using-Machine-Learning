@@ -1,1 +1,1 @@
-# Yoga-Posture-Detection-using-Machine-Learning
+# Yoga Posture Detection using Machine Learning
